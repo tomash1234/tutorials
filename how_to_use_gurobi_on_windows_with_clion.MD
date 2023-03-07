@@ -1,7 +1,7 @@
 # How to use Gurobi on Windows using CLion and MinGW
 
 A quick tutorial how to use cmake and MinGW for compiling Gurobi project on Windows with
-Clion.
+Clion to build C++ projects.
 
 ## Prerequisites
 - Make sure you have Gurobi installed on your computer.
